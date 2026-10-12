@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Myrsini 👋
 
-<!--
-**myrsini-christodoulopoulou/myrsini-christodoulopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Violin educator since 2009, with a background in Computer Engineering and Informatics (University of Patras) and Music Science (University of Macedonia). I'm currently moving into content and digital marketing.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Content creation and SEO
+- Refreshing my programming skills with Java (Python next)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+- Small Java projects (coming soon)
+- My portfolio (coming soon)
+
+## Get in touch
+www.linkedin.com/in/myrsini-christodoulopoulou
+
+_Μιλάω και ελληνικά, οπότε μπορείς να μου γράψεις όπως σε βολεύει._
