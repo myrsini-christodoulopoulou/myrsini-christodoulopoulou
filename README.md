@@ -11,6 +11,6 @@ Violin educator since 2009, with a background in Computer Engineering and Inform
 - My portfolio (coming soon)
 
 ## Get in touch
-www.linkedin.com/in/myrsini-christodoulopoulou
+[LinkedIn](www.linkedin.com/in/myrsini-christodoulopoulou)
 
 _Μιλάω και ελληνικά, οπότε μπορείς να μου γράψεις όπως σε βολεύει._
