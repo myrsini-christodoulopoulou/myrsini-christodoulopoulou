@@ -8,7 +8,7 @@ Violin educator since 2009, with a background in Computer Engineering and Inform
 
 ## What you'll find here
 - Small Java projects (coming soon)
-- My portfolio (coming soon)
+- My portfolio 
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/myrsini-christodoulopoulou)
